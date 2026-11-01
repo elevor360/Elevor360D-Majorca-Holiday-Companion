@@ -1,0 +1,302 @@
+{
+  "version": "3.0",
+  "destination": "Majorca",
+  "updated": "2026-11-01",
+  "intro": "Explore Majorca (Mallorca), from Palma’s historic streets to sandy beaches, mountain villages and scenic coastal walks. Save your plans, favourites, photos and holiday spending on your device.",
+  "areas": [
+    {
+      "name": "Palma",
+      "description": "Island capital with a historic centre, waterfront and cathedral."
+    },
+    {
+      "name": "Alcúdia & Port d’Alcúdia",
+      "description": "Walled old town, broad sandy bay and family-friendly seafront."
+    },
+    {
+      "name": "Sóller & Port de Sóller",
+      "description": "Mountain town and sheltered harbour connected by a historic tram."
+    },
+    {
+      "name": "Pollença & Port de Pollença",
+      "description": "Old town squares, beaches and access to the north coast."
+    },
+    {
+      "name": "Cala d’Or",
+      "description": "Southeast resort known for small coves and a marina."
+    },
+    {
+      "name": "Valldemossa",
+      "description": "Stone village in the Tramuntana mountains."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Palma Cathedral (La Seu)",
+      "description": "Gothic cathedral beside the waterfront; check entry and visiting hours."
+    },
+    {
+      "name": "Bellver Castle",
+      "description": "Circular hilltop castle with views over Palma."
+    },
+    {
+      "name": "Alcúdia Old Town",
+      "description": "Explore medieval walls, lanes and the town centre."
+    },
+    {
+      "name": "Cap de Formentor",
+      "description": "Dramatic northern headland; seasonal road restrictions may apply."
+    },
+    {
+      "name": "Cuevas del Drach",
+      "description": "Show caves near Porto Cristo; check tours and booking details."
+    },
+    {
+      "name": "Sa Calobra & Torrent de Pareis",
+      "description": "Mountain road and coastal gorge; access and walking conditions vary."
+    }
+  ],
+  "transport": [
+    {
+      "name": "Walking",
+      "description": "Old towns and promenades are walkable, but some streets are steep or cobbled."
+    },
+    {
+      "name": "TIB buses",
+      "description": "Island-wide public transport; verify routes and fares with TIB."
+    },
+    {
+      "name": "EMT Palma buses",
+      "description": "City bus network for Palma; check current routes and fares."
+    },
+    {
+      "name": "Car hire",
+      "description": "Useful for remote coves; check parking, mountain roads and restrictions."
+    },
+    {
+      "name": "Train & tram",
+      "description": "Palma–Sóller heritage railway and Sóller harbour tram have separate schedules and tickets."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Call 112 in an emergency in Spain."
+    },
+    {
+      "name": "Weather & sun",
+      "description": "Carry water and sun protection; check heat alerts and local forecasts."
+    },
+    {
+      "name": "Swimming safety",
+      "description": "Follow beach flags and lifeguard instructions; avoid unsafe sea conditions."
+    },
+    {
+      "name": "Currency",
+      "description": "Euro (€). Check payment and cash withdrawal fees."
+    },
+    {
+      "name": "Travel documents",
+      "description": "Check UK government advice for Spain and your travel insurance."
+    },
+    {
+      "name": "Language",
+      "description": "Spanish and Catalan (Mallorquí) are widely used; English is common in tourist areas."
+    }
+  ],
+  "links": [
+    {
+      "name": "UK travel advice for Spain",
+      "url": "https://www.gov.uk/foreign-travel-advice/spain"
+    },
+    {
+      "name": "Mallorca public transport (TIB)",
+      "url": "https://www.tib.org/en/"
+    },
+    {
+      "name": "Palma city buses (EMT)",
+      "url": "https://www.emtpalma.cat/"
+    },
+    {
+      "name": "Official Mallorca tourism",
+      "url": "https://www.mallorca.es/"
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Majorca local business advertisement"
+  },
+  "beaches": [
+    {
+      "name": "Playa de Muro",
+      "description": "Long sandy beach on Alcúdia Bay; check flags and sea conditions."
+    },
+    {
+      "name": "Port d’Alcúdia Beach",
+      "description": "Wide sandy bay with a long seafront."
+    },
+    {
+      "name": "Cala Mondragó",
+      "description": "Coves in a protected natural area; parking can be limited."
+    },
+    {
+      "name": "Cala Agulla",
+      "description": "Sandy bay near Cala Ratjada, backed by pine trees."
+    },
+    {
+      "name": "Cala Millor",
+      "description": "Popular east-coast beach with promenade."
+    },
+    {
+      "name": "Es Trenc",
+      "description": "Long sandy beach in a protected coastal landscape; follow local access rules."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Sineu Market",
+      "description": "Traditional inland market; check current market day and hours."
+    },
+    {
+      "name": "Alcúdia Market",
+      "description": "Market in and around the old town; verify days locally."
+    },
+    {
+      "name": "Inca Shopping",
+      "description": "Explore shops and leather-goods heritage in this inland town."
+    },
+    {
+      "name": "Palma Shopping",
+      "description": "Boutiques, markets and shopping streets around the centre."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Palma Old Town",
+      "description": "Restaurants, cocktail bars and evening terraces."
+    },
+    {
+      "name": "Santa Catalina, Palma",
+      "description": "Lively neighbourhood for dining and evening venues."
+    },
+    {
+      "name": "Port d’Alcúdia",
+      "description": "Waterfront restaurants and relaxed evening bars."
+    },
+    {
+      "name": "Cala d’Or Marina",
+      "description": "Evening dining around the marina."
+    }
+  ],
+  "family": [
+    {
+      "name": "Palma Aquarium",
+      "description": "Marine exhibits and activities; check tickets and opening hours."
+    },
+    {
+      "name": "Alcúdia Bay",
+      "description": "Shallow-water beach areas; always supervise children and check flags."
+    },
+    {
+      "name": "Sóller Historic Train",
+      "description": "Scenic rail journey between Palma and Sóller; book/check schedules."
+    },
+    {
+      "name": "Caves of Drach",
+      "description": "Guided cave visit; check accessibility and tour conditions."
+    },
+    {
+      "name": "Beach & promenade day",
+      "description": "Choose a nearby beach and plan shade, water and sun protection."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Palma Old Town",
+      "description": "Explore tapas bars and Mallorcan cooking in the historic centre."
+    },
+    {
+      "name": "Santa Catalina Market Area",
+      "description": "Food market and surrounding cafés; check opening hours."
+    },
+    {
+      "name": "Port de Sóller",
+      "description": "Harbourfront restaurants, seafood and views."
+    },
+    {
+      "name": "Alcúdia Old Town",
+      "description": "Cafés and restaurants in the walled town."
+    },
+    {
+      "name": "Try local dishes",
+      "description": "Look for tumbet, pa amb oli and ensaïmada; check ingredients if needed."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Valldemossa & Deià",
+      "description": "Mountain villages and scenic roads; check bus and parking options."
+    },
+    {
+      "name": "Sóller & Port de Sóller",
+      "description": "Historic train and tram, town centre and harbour."
+    },
+    {
+      "name": "Cap de Formentor",
+      "description": "Coastal viewpoints; check seasonal shuttle and vehicle restrictions."
+    },
+    {
+      "name": "Cuevas del Drach & Porto Cristo",
+      "description": "Caves and east-coast harbour."
+    },
+    {
+      "name": "Alcúdia & Pollença",
+      "description": "Historic centres, northern beaches and viewpoints."
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Palma Cathedral",
+      "description": "La Seu in Palma.",
+      "lat": 39.5675,
+      "lon": 2.6483
+    },
+    {
+      "name": "Bellver Castle",
+      "description": "Hilltop castle in Palma.",
+      "lat": 39.5638,
+      "lon": 2.6195
+    },
+    {
+      "name": "Alcúdia Old Town",
+      "description": "Historic walled town.",
+      "lat": 39.8523,
+      "lon": 3.1213
+    },
+    {
+      "name": "Port de Sóller",
+      "description": "Harbour and promenade.",
+      "lat": 39.7962,
+      "lon": 2.6957
+    },
+    {
+      "name": "Valldemossa",
+      "description": "Mountain village.",
+      "lat": 39.7102,
+      "lon": 2.6225
+    },
+    {
+      "name": "Cala d’Or",
+      "description": "Southeast coastal resort.",
+      "lat": 39.3784,
+      "lon": 3.2343
+    },
+    {
+      "name": "Cuevas del Drach",
+      "description": "Caves near Porto Cristo.",
+      "lat": 39.5352,
+      "lon": 3.3309
+    }
+  ]
+}
