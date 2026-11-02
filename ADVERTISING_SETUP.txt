@@ -1,0 +1,7 @@
+Majorca Holiday Companion V2 — Universal Advertising Manager V1 support
+
+Upload all files and folders to your existing Majorca GitHub repository.
+Use Manager V1 to export adverts.json and image files.
+Replace advertising/adverts.json and upload images to advertising/images/.
+The included example advert links to https://elevor360d.co.uk/.
+Test the advert and existing app features on your device.

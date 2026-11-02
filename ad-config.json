@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "majorca-companion",
+  "group": "holiday",
+  "refreshMinutes": 30
+}
